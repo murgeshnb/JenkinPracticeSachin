@@ -6,7 +6,7 @@ public class Pgm3 {
 	
 	@Test
 	public void third(){
-		System.out.println("3rd classs");
+		System.out.println("3rd classssss ");
 	}
 
 }
